@@ -1,2 +1,2 @@
 # MBlockingQueue
-sss
+Blocking queue
